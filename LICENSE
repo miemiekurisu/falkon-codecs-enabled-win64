@@ -1,0 +1,94 @@
+Falkon - Qt Web Browser
+========================
+Copyright (C) 2010-2018 David Rosca <nowrep@gmail.com>
+Copyright (C) 2020-2025 Juraj Oravec <jurajoravec@mailo.com>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+NO WARRANTY
+-----------
+11. Disclaimer of Warranty.
+
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT
+WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND
+PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE
+DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR
+CORRECTION.
+
+12. Limitation of Liability.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR
+CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
+ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT
+NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES
+SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO
+OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Full license: https://www.gnu.org/licenses/gpl-3.0.html
+
+Source Code
+-----------
+Falkon source code: https://github.com/falkonium/falkon
+Qt source code:     https://code.qt.io/
+Build patches:      https://github.com/miemiekurisu/falkon-codecs-enabled-win64
+Release repo:       https://github.com/miemiekurisu/falkon-codecs-enabled-win64
+
+This build was produced from Falkon 24.12.2 source with
+modifications for Windows x64 proprietary codec support.
+All source code modifications are available upon request.
+
+Third-Party Components
+----------------------
+This binary distribution includes the following third-party
+components under their respective licenses:
+
+  Qt 6.11.0 / QtWebEngine
+    (C) The Qt Company Ltd.
+    Licenses: LGPL-3.0-only / GPL-3.0-only
+    https://www.qt.io/
+
+  KDE Frameworks (KF6Archive)
+    (C) KDE e.V.
+    License: LGPL-2.1-or-later
+    https://invent.kde.org/frameworks/karchive
+
+  OpenSSL 1.1.1w
+    (C) The OpenSSL Project / Eric Young
+    License: OpenSSL + SSLeay dual-license
+    https://www.openssl.org/
+
+  FFmpeg (codec support)
+    (C) FFmpeg contributors
+    License: LGPL-2.1-or-later
+    https://ffmpeg.org/
+
+  udev (Windows port)
+    License: LGPL-2.1-or-later
+
+DISCLAIMER
+----------
+This is an UNOFFICIAL third-party build. It is not endorsed by
+or affiliated with the Falkon project, KDE, The Qt Company,
+or any other upstream project.
+
+This build has proprietary codec support enabled (H.264, AAC, MP3).
+Patent licensing for these codecs may be required in certain
+countries. The distributor makes no representation regarding
+the patent status of these codecs. End users should ensure
+compliance with local patent laws.
+
+NO TECHNICAL SUPPORT is provided for this build. Use at your own risk.
