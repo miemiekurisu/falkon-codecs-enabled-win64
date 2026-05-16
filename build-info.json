@@ -1,10 +1,10 @@
 {
-  "build_id": "v2026.05.16-codecs.1",
+  "build_id": "v2026.07.70-codecs.1",
   "builder": "miemiekurisu",
   "qt_version": "6.11.0",
   "date": "2026-05-16",
   "platform": "Windows 10/11 x64",
   "codecs": "proprietary_codecs, rtc_use_h264, ffmpeg_branding=Chrome",
-  "falkon_version": "24.12.2",
+  "falkon_version": "26.07.70",
   "notes": "Unofficial third-party build with proprietary codec support"
 }
