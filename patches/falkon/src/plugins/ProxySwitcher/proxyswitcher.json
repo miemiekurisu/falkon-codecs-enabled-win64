@@ -1,0 +1,8 @@
+{
+    "Comment": "SwitchyOmega-like proxy profile switcher with full network takeover",
+    "Name": "Proxy Switcher",
+    "X-Falkon-Author": "miemiekurisu",
+    "X-Falkon-Email": "miemiekurisu@users.noreply.github.com",
+    "X-Falkon-Settings": "true",
+    "X-Falkon-Version": "1.0.0"
+}

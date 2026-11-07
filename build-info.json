@@ -1,10 +1,10 @@
 {
-  "build_id": "26.11.71-codecs.1",
+  "build_id": "26.11.71-codecs.1.proxypatched",
   "builder": "miemiekurisu",
   "qt_version": "6.11.0",
   "date": "2026-10-24",
   "platform": "Windows 10/11 x64",
   "codecs": "proprietary_codecs, rtc_use_h264, ffmpeg_branding=Chrome",
   "falkon_version": "26.11.71",
-  "notes": "Unofficial third-party build with proprietary codec support"
+  "notes": "Unofficial third-party build with proprietary codec support and ProxySwitcher plugin"
 }
